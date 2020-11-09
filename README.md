@@ -85,9 +85,11 @@ El proceso para registrar un pesticida es un procedimiento científico, legal y 
 - la cantidad, frecuencia y tiempo de uso; y
 - las prácticas de almacenamiento y eliminación.
 
-En cuanto a la regularización de uso de pesticidas cae pertinente mencionar el [Decreto 158 sobre condiciones para la seguridad sanitaria de las personas en la apicación terrestre de plaguicidas agrícolas](https://www.bcn.cl/leychile/navegar?idNorma=1078695) la cual delimita restricciones en la aplicación de plaguicidas, como la condición del viento, distancia de aplicación, espacio, la notificación a vecinos de manera comprobable sobre cada aplicación que fuese a hacerse, responsabilidades que se asignan al productor agrícola y sin embargo [se siguen aplicando pesticidas prohibidos en el mundo con pésima fiscalización](https://www.elmostrador.cl/destacado/2019/01/17/la-muerte-silenciosa-uso-en-chile-de-plaguicidas-prohibidos-en-el-mundo-causa-dano-cognitivo-en-menores/#:~:text=En%20Chile%20se%20ha%20reportado,grupos%20alta%20o%20moderadamente%20peligrosos.), ante esto la respuesta de la autoridad es solamente llamar a notificar casos de intoxificación con el [decreto 88](https://www.bcn.cl/leychile/navegar?idNorma=231067) en vez de realizar medidas de prevención de intoxificación. 
+En cuanto a la regularización de uso de pesticidas resulta pertinente mencionar el [Decreto 158 sobre condiciones para la seguridad sanitaria de las personas en la apicación terrestre de plaguicidas agrícolas](https://www.bcn.cl/leychile/navegar?idNorma=1078695) la cual delimita restricciones en la aplicación de plaguicidas, como la condición del viento, distancia de aplicación, espacio, la notificación a vecinos de manera comprobable sobre cada aplicación que fuese a hacerse, responsabilidades que se asignan al productor agrícola y sin embargo [se siguen aplicando pesticidas prohibidos en el mundo con pésima fiscalización](https://www.elmostrador.cl/destacado/2019/01/17/la-muerte-silenciosa-uso-en-chile-de-plaguicidas-prohibidos-en-el-mundo-causa-dano-cognitivo-en-menores/#:~:text=En%20Chile%20se%20ha%20reportado,grupos%20alta%20o%20moderadamente%20peligrosos.), ante esto la respuesta de la autoridad es solamente llamar a notificar casos de intoxificación con el [decreto 88](https://www.bcn.cl/leychile/navegar?idNorma=231067) en vez de realizar medidas de prevención de intoxificación. 
 
+La propuesta, para asegurar la salud de la población y el medio ambiente, es definir herramientas de protección, prevención y medición, de esta manera, se busca hacer respetar el decreto 158 para no tener que llegar a casos de intoxicación. También hay que considerar que no todas las intoxicaciones son agudas, gran mayoría son intoxicaciones levemente perceptibles que afectan la salud de la población en todos sus rangos etarios, por lo tanto tener un decreto que solamente considere los casos graves es de alguna manera invisibilizar el daño de los pesticidas desregularizados en los intoxicamientos secundarios, ya sea a través de alimento o efecto de contaminación residual.
 
+¿De qué sirve que no se puedan vender pesticidas a menores de 18 años si igualmente niños y adolescentes terminan afectados? 
 
 ## Bibliografía
 OMS https://www.who.int/features/qa/87/es/
@@ -114,3 +116,8 @@ Malformaciones congénitas en O'Higgins https://pubmed.ncbi.nlm.nih.gov/10962857
 
 Plaguicidas afectando a las abejas https://www.camara.cl/verDoc.aspx?prmID=128743&prmTIPO=DOCUMENTOCOMISION#:~:text=El%20efecto%20que%20provocan%20estos,sistema%20inmunol%C3%B3gico%20de%20dichos%20insectos.
 
+Decretos y leyes: 
+
+https://www.bcn.cl/leychile/navegar?idNorma=1078695
+
+https://www.bcn.cl/leychile/navegar?idNorma=231067
