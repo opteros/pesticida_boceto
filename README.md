@@ -1,4 +1,5 @@
-# Estructura
+# La dañina presencia de los pesticidas en Chile
+## Estructura
 
 ![ScreenShot](https://github.com/opteros/pesticida_boceto/blob/gh-pages/IMG/boceto.png?raw=true)
 
