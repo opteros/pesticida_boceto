@@ -85,6 +85,10 @@ El proceso para registrar un pesticida es un procedimiento científico, legal y 
 - la cantidad, frecuencia y tiempo de uso; y
 - las prácticas de almacenamiento y eliminación.
 
+En cuanto a la regularización de uso de pesticidas cae pertinente mencionar el [Decreto 158 sobre condiciones para la seguridad sanitaria de las personas en la apicación terrestre de plaguicidas agrícolas](https://www.bcn.cl/leychile/navegar?idNorma=1078695) la cual delimita restricciones en la aplicación de plaguicidas, como la condición del viento, distancia de aplicación, espacio, la notificación a vecinos de manera comprobable sobre cada aplicación que fuese a hacerse, responsabilidades que se asignan al productor agrícola y sin embargo [se siguen aplicando pesticidas prohibidos en el mundo con pésima fiscalización](https://www.elmostrador.cl/destacado/2019/01/17/la-muerte-silenciosa-uso-en-chile-de-plaguicidas-prohibidos-en-el-mundo-causa-dano-cognitivo-en-menores/#:~:text=En%20Chile%20se%20ha%20reportado,grupos%20alta%20o%20moderadamente%20peligrosos.), ante esto la respuesta de la autoridad es solamente llamar a notificar casos de intoxificación con el [decreto 88](https://www.bcn.cl/leychile/navegar?idNorma=231067) en vez de realizar medidas de prevención de intoxificación. 
+
+
+
 ## Bibliografía
 OMS https://www.who.int/features/qa/87/es/
 
