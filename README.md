@@ -1,6 +1,6 @@
 # Estructura
 
-![ScreenShot](https://raw.githubusercontent.com/opteros/pesticida_boceto/main/IMG/pesticidas_chile.png)
+![ScreenShot](https://github.com/opteros/pesticida_boceto/blob/gh-pages/IMG/pesticidas_chile.png?raw=true)
 
 # Info
 ## Pesticidas usos
