@@ -1,6 +1,6 @@
 # Estructura
 
-![ScreenShot](https://github.com/opteros/pesticida_boceto/blob/gh-pages/IMG/pesticidas_chile.png?raw=true)
+![ScreenShot](https://github.com/opteros/pesticida_boceto/blob/gh-pages/IMG/IMG_6040.jpg?raw=true)
 ![ScreenShot](https://github.com/opteros/pesticida_boceto/blob/gh-pages/IMG/pesticidas_chile.png?raw=true)
 
 # Info
